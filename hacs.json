@@ -1,0 +1,5 @@
+{
+    "name": "Long Running Shell Command",
+    "homeassistant": "2024.9.1",
+    "render_readme": true
+}
