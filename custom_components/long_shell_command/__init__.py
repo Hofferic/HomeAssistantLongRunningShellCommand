@@ -1,4 +1,4 @@
-"""Expose regular shell commands as services."""
+"""Expose regular shell commands as services, with long timeout."""
 
 from __future__ import annotations
 
