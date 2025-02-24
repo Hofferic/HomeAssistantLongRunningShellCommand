@@ -2,4 +2,6 @@
 
 # Home Assistant long running Shell Command
 
-This is a simple hacs module consiting of a direct copy of the original home assistnat [shell command component](https://github.com/home-assistant/core/tree/dev/homeassistant/components/shell_command) with a single edit - the timeout has been made much more lenient
+This is a simple hacs module consiting of a direct copy of the original home assistant [shell command component](https://github.com/home-assistant/core/tree/dev/homeassistant/components/shell_command) with a single edit - the timeout has been made much more lenient.
+
+To use this integration instead of the original, simply replace the shell_command key with long_shell_command
